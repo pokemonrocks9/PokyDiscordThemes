@@ -14,7 +14,8 @@
     "BACKGROUND_ACCENT": ["#08080A"],
     "BACKGROUND_FLOATING": ["#08080A"],
     "SPOILER_HIDDEN_BACKGROUND": ["#1E1F22"],
-    "SPOILER_REVEALED_BACKGROUND": ["#232428"]
+    "SPOILER_REVEALED_BACKGROUND": ["#232428"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#1a1a1a"]
   },
   "rawColors": {
     "PRIMARY_560": "#08080A",
@@ -34,6 +35,8 @@
   },
   "plus": {
     "version": "0",
-    "iconpack": "md3"
+    "iconpack": "md3",
+    "userProfileBackground": "#1a1a1a",
+    "userBarBackground": "#1a1a1a"
   }
 }
