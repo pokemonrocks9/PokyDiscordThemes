@@ -1,5 +1,5 @@
 {
-  "name": "System black theme",
+  "name": "Poky Amoled",
   "description": "Black theme in \"automatic\" dark theme",
   "authors": [
     {
@@ -11,6 +11,7 @@
   "semanticColors": {
     "BACKGROUND_TERTIARY": ["#000000"],
     "BACKGROUND_ACCENT": ["#08080A"],
+    "BACKGROUND_FLOATING": ["#1a1a1a"],
     "SPOILER_HIDDEN_BACKGROUND": ["#1E1F22"],
     "SPOILER_REVEALED_BACKGROUND": ["#232428"]
   },
