@@ -1,0 +1,39 @@
+{
+  "name": "System black theme",
+  "description": "Black theme in \"automatic\" dark theme",
+  "authors": [
+    {
+      "name": "pokemonrocks9",
+      "id": "0000000000"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "ANDROID_RIPPLE": [ "#CFC7D83E" ],   
+    "BACKGROUND_TERTIARY": ["#000000"],
+    "BACKGROUND_ACCENT": ["#08080A"],
+    "BACKGROUND_FLOATING": ["#08080A"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#1E1F22"],
+    "SPOILER_REVEALED_BACKGROUND": ["#232428"]
+  },
+  "rawColors": {
+    "PRIMARY_560": "#08080A",
+    "PRIMARY_600": "#000000",
+    "PRIMARY_630": "#000000",
+    "PRIMARY_660": "#08080A",
+    "PRIMARY_700": "#08080A",
+    "PRIMARY_800": "#08080A",
+
+    "PLUM_15": "#08080A",
+    "PLUM_17": "#000000",
+    "PLUM_18": "#08080A",
+    "PLUM_19": "#08080A",
+    "PLUM_20": "#000000",
+    "PLUM_23": "#000000",
+    "PLUM_24": "#08080A"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "md3"
+  }
+}
